@@ -1,6 +1,8 @@
 # RACIChartAD400
 RACI Chart for AD400 Project
 
+YouTube video explanation: https://youtu.be/pnaanw-nLU4
+
 Creating and Analyzing a RACI Chart
 
 The Oliver’s App project encompasses the development, deployment, and managing of Oliver’s App – A nifty smartphone app made for entertaining and wholesome conversation. The project aims to create the app, refine it and release it to the public over the course of about a year. Our goal is to have 1,000 users and overwhelmingly positive reviews and our vision is to help create good memories through the use of our app. We at Oliver’s app believe human connection is an incredibly valuable sum of wealth.
